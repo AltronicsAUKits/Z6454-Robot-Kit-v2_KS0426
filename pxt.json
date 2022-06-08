@@ -1,0 +1,29 @@
+{
+    "name": "Z6454 - Robot Kit V2.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-k-bit": "github:mworkfun/pxt-k-bit#v1.0.0",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "Altronics_Z6454.ts",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
