@@ -99,9 +99,6 @@ A MakeCode package for use with Altronics Z6454 Smart Robot Car V2 - by Keyestud
 
 > https://makecode.microbit.org/84520-83000-36608-14213
 
-> Z6454 - Lesson 10.1 – Bluetooth Datalogging & Display	
-
-> https://makecode.microbit.org/75023-87673-91279-23726
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
