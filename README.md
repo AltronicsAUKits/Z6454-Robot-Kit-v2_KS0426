@@ -2,11 +2,11 @@
 
 A MakeCode package for use with Altronics Z6454 Smart Robot Car V2 - by Keyestudio KS0426
 
-> Product page at https://www.altronics.com.au/p/z6454-stem-microbit-mini-smart-robot-car-v2.0/
+* Product page at https://www.altronics.com.au/p/z6454-stem-microbit-mini-smart-robot-car-v2.0/
 
-> 23 Example Lessons & .hex Projects can be found at https://github.com/AltronicsAUKits/K6454_23_Lesson_Examples_and_Hex_Files
+* 23 Example Lessons & .hex Projects can be found at https://github.com/AltronicsAUKits/K6454_23_Lesson_Examples_and_Hex_Files
 
-> Open this page at [https://github.com/AltronicsAUKits/Z6454-Robot-Kit-v2_KS0426/](https://github.com/AltronicsAUKits/Z6454-Robot-Kit-v2_KS0426/)
+* Open this page at [https://github.com/AltronicsAUKits/Z6454-Robot-Kit-v2_KS0426/](https://github.com/AltronicsAUKits/Z6454-Robot-Kit-v2_KS0426/)
 
 ## Example Lesson Codes can be found below
 > Z6454 - Lesson 1.0 - Passive Buzzer Control	
